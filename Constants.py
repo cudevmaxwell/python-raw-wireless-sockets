@@ -1,15 +1,4 @@
 #***************************************
-#	COMP 4203 - Wireless Networks and Security
-#	Prof. Michel Barbeau 
-#	Winter 2009
-#	Carleton University
-#
-#	Dan Ayson
-#	Kevin Bowrin
-# 	Y.O.B.A.T.M.A.N.
-#	A small implemententation of the B.A.T.M.A.N. 
-#	Ad-Hoc Wireless Networking Routing Algorithm
-#
 #	FileName: Constants.py
 #
 #	Description:
